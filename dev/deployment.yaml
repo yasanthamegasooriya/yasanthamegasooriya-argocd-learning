@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: node-app
-          image: nanajanashia/argocd-app:1.2
+          image: nanajanashia/argocd-app:1.0
           imagePullPolicy: Always
           ports:
             - containerPort: 8080
