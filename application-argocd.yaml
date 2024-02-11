@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/yasanthamegasooriya/argocd-learning.git
+    repoURL: https://github.com/yasanthamegasooriya/yasanthamegasooriya-argocd-learning.git
     targetRevision: HEAD
     path: dev
   destination:
